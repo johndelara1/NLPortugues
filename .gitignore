@@ -1,5 +1,5 @@
 # folder
-nlp/
+"nlp/*"
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
