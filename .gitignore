@@ -1,5 +1,4 @@
-#idea folder
-.idea/
+# git rm -rf .idea && git rm -rf nlp && git add . && git commit -m "teste" && git push origin master
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
